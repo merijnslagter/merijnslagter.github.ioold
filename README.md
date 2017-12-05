@@ -1,2 +1,1 @@
-# merijnslagter.github.io
-This is a test
+This site functions as a test for blogging purposes
